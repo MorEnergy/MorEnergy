@@ -8,7 +8,7 @@ Hi there! I'm [Him](https://github.com/MorEnergy), an aspiring programmer with a
 
 Here are some of the projects I've been working on to explore the intersection of data, finance, and technology:
 
-### Project 1: [Financial Data Analysis](https://github.com/your-username/financial-data-analysis)
+### Project 1: [Financial Data Analysis](https://github.com/MorEnergy/financial_data_analysis)
 
 **Description:** This project focuses on analyzing financial datasets to gain insights into market trends and investment opportunities. It involves data cleaning, exploratory data analysis, and visualization techniques.
 
