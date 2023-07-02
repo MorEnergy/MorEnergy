@@ -44,7 +44,7 @@ I am committed to continuous learning and expanding my skill set in the field of
 I would love to connect with fellow enthusiasts and professionals in the data, finance, and technology space. Feel free to reach out to me through the following channels:
 
 - Email: [a_raji@outlook.com](mailto:a_raji@outlook.com)
-- LinkedIn: [Him](https://www.linkedin.com/in/MorEnergy)
+- LinkedIn: [Him](https://www.linkedin.com/in/adam-raji-/)
 
 Let's learn and grow together in this exciting journey of data, finance, and technology!
 
