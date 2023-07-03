@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm [Him](https://github.com/MorEnergy), an aspiring programmer with a keen interest in data, finance, and technology. I am passionate about leveraging data-driven insights to solve real-world problems and drive innovation.
+Hi there! I'm [Adam](https://github.com/MorEnergy), an aspiring programmer with a keen interest in data, finance, and technology. I am passionate about leveraging data-driven insights to solve real-world problems and drive innovation.
 
 ## Projects
 
@@ -44,7 +44,7 @@ I am committed to continuous learning and expanding my skill set in the field of
 I would love to connect with fellow enthusiasts and professionals in the data, finance, and technology space. Feel free to reach out to me through the following channels:
 
 - Email: [a_raji@outlook.com](mailto:a_raji@outlook.com)
-- LinkedIn: [Him](https://www.linkedin.com/in/adam-raji-/)
+- LinkedIn: [Adam](https://www.linkedin.com/in/adam-raji-/)
 
 Let's learn and grow together in this exciting journey of data, finance, and technology!
 
