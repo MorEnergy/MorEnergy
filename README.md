@@ -12,7 +12,7 @@ Here are some of the projects I've been working on to explore the intersection o
 
 **Description:** This project focuses on analyzing financial datasets to gain insights into market trends and investment opportunities. It involves data cleaning, exploratory data analysis, and visualization techniques.
 
-### Project 2: [Stock Price Prediction](https://github.com/your-username/stock-price-prediction)
+### Project 2: [Stock Price Prediction](https://github.com/MorEnergy/stock_price_prediction/tree/master)
 
 **Description:** In this project, I delve into the world of machine learning and use historical stock market data to build predictive models. The aim is to forecast future stock prices and evaluate the performance of different algorithms.
 
