@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm [Adam](https://github.com/MorEnergy), an aspiring programmer with a keen interest in data, finance, and technology. I am passionate about leveraging data-driven insights to solve real-world problems and drive innovation.
+Hi there! I'm [Adam](https://github.com/MorEnergy), an aspirant programmer with a keen interest in data, finance, and technology. I am passionate about leveraging data-driven insights to solve real-world problems and drive innovation.
 
 ## Projects
 
