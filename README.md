@@ -16,7 +16,7 @@ Here are some of the projects I've been working on to explore the intersection o
 
 **Description:** In this project, I delve into the world of machine learning and use historical stock market data to build predictive models. The aim is to forecast future stock prices and evaluate the performance of different algorithms.
 
-### Project 3: [Data Visualization Dashboard](https://github.com/your-username/data-visualization-dashboard)
+### Project 3: [Data Visualization Dashboard](https://github.com/MorEnergy/Finance_data_dashboard/tree/master)
 
 **Description:** This project showcases my skills in data visualization by creating an interactive dashboard using popular visualization libraries. It provides an intuitive way to explore and understand complex financial datasets.
 
