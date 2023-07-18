@@ -25,7 +25,7 @@ Here are some of the projects I've been working on to explore the intersection o
 Although I am new to programming, I have acquired foundational knowledge in the following areas:
 
 - Programming Languages: Python, SQL
-- Data Analysis: Pandas, NumPy
+- Data Analysis: Pandas, NumPy, PySpark
 - Data Visualization: Matplotlib, Seaborn
 - Machine Learning: Scikit-learn
 - Technology: Git, GitHub
