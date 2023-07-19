@@ -20,6 +20,10 @@ Here are some of the projects I've been working on to explore the intersection o
 
 **Description:** This project showcases my skills in data visualization by creating an interactive dashboard using popular visualization libraries. It provides an intuitive way to explore and understand complex financial datasets.
 
+### Project 4: [K-Means Clustering Algorithm]()
+
+**Description:** This code example my implementation of the K-means clustering algorithm in Python using scikit-learn. With this code, I demonstrate how to cluster data points and visualize the results.
+
 ## Skills
 
 Although I am new to programming, I have acquired foundational knowledge in the following areas:
@@ -34,10 +38,10 @@ Although I am new to programming, I have acquired foundational knowledge in the 
 
 I am committed to continuous learning and expanding my skill set in the field of data, finance, and technology. Currently, I am focusing on:
 
-- Deepening my understanding of data manipulation and analysis techniques
-- Exploring advanced machine learning algorithms for predictive modeling
-- Learning about financial modeling and investment strategies
-- Improving my knowledge of cloud platforms for scalable data processing
+- Deepening my understanding of data manipulation and analysis techniques.
+- Exploring advanced machine learning algorithms for predictive modeling.
+- Learning about financial modeling and investment strategies.
+- Improving my knowledge of cloud platforms for scalable data processing.
 
 ## Contact Me
 
