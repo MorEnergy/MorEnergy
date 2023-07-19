@@ -20,7 +20,7 @@ Here are some of the projects I've been working on to explore the intersection o
 
 **Description:** This project showcases my skills in data visualization by creating an interactive dashboard using popular visualization libraries. It provides an intuitive way to explore and understand complex financial datasets.
 
-### Project 4: [K-Means Clustering Algorithm]()
+### Project 4: [K-Means Clustering Algorithm](https://github.com/MorEnergy/K_Means_Clustering)
 
 **Description:** This code example my implementation of the K-means clustering algorithm in Python using scikit-learn. With this code, I demonstrate how to cluster data points and visualize the results.
 
