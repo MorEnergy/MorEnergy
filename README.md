@@ -10,19 +10,19 @@ Here are some of the projects I've been working on to explore the intersection o
 
 ### Project 1: [Financial Data Analysis](https://github.com/MorEnergy/Financial_data_analysis/tree/master)
 
-**Description:** This project focuses on analyzing financial datasets to gain insights into market trends and investment opportunities. It involves data cleaning, exploratory data analysis, and visualization techniques.
+**Description:** This project focuses on analysing financial datasets to gain insights into market trends and investment opportunities. It involves data cleaning, exploratory data analysis, and visualisation techniques.
 
 ### Project 2: [Stock Price Prediction](https://github.com/MorEnergy/stock_price_prediction/tree/master)
 
 **Description:** In this project, I delve into the world of machine learning and use historical stock market data to build predictive models. The aim is to forecast future stock prices and evaluate the performance of different algorithms.
 
-### Project 3: [Data Visualization Dashboard](https://github.com/MorEnergy/Finance_data_dashboard/tree/master)
+### Project 3: [Data Visualisation Dashboard](https://github.com/MorEnergy/Finance_data_dashboard/tree/master)
 
-**Description:** This project showcases my skills in data visualization by creating an interactive dashboard using popular visualization libraries. It provides an intuitive way to explore and understand complex financial datasets.
+**Description:** This project showcases my skills in data visualisation by creating an interactive dashboard using popular visualisation libraries. It provides an intuitive way to explore and understand complex financial datasets.
 
 ### Project 4: [K-Means Clustering Algorithm](https://github.com/MorEnergy/K_Means_Clustering)
 
-**Description:** This code example my implementation of the K-means clustering algorithm in Python using scikit-learn. With this code, I demonstrate how to cluster data points and visualize the results.
+**Description:** This code example my implementation of the K-means clustering algorithm in Python using scikit-learn. With this code, I demonstrate how to cluster data points and visualise the results.
 
 ## Skills
 
@@ -30,7 +30,7 @@ Although I am new to programming, I have acquired foundational knowledge in the 
 
 - Programming Languages: Python, SQL
 - Data Analysis: Pandas, NumPy, PySpark
-- Data Visualization: Matplotlib, Seaborn
+- Data Visualisation: Matplotlib, Seaborn
 - Machine Learning: Scikit-learn
 - Technology: Git, GitHub
 
